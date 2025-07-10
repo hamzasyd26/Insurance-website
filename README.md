@@ -1,6 +1,6 @@
-### LIFESURE
+# LIFESURE
 
-##PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 Developed a responsive multi-page insurance website using Bootstrap 5, SCSS, and custom theming for consistent branding and layout.
 
