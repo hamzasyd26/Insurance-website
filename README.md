@@ -2,11 +2,13 @@
 
 ## PROJECT OVERVIEW
 
-Developed a responsive multi-page insurance website using Bootstrap 5, SCSS, and custom theming for consistent branding and layout.
+A simple, responsive insurance website built using HTML, SCSS, Bootstrap, and jQuery.
 
-Integrated interactive UI elements like carousels, counters, modals, and animated scroll effects using Owl Carousel and WOW.js.
+Includes sections like services, testimonials, blogs, team, and contact.
 
-Structured the project with modular components and optimized performance through lazy loading, preloaded assets, and minimal JavaScript usage.
+Features like sticky navbar, carousel, and back-to-top button added with jQuery.
+
+Used Bootstrap for layout and responsiveness; customized styles with SCSS.
 
 
 
